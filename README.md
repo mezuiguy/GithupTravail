@@ -1,2 +1,2 @@
 # GithupTravail
-Je suis débutant et C'est mon premier projet à traiter avec Githup.
+Je suis débutant et C'est mon premier projet avec Githup.
